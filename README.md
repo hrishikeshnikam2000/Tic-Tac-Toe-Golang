@@ -1,6 +1,3 @@
-#Tic-Tac-Toe-Golang
-
-
 A Tic Tac toe game in Go.
 
 This is simple desktop game called Tic Tac Toe (X and O) in which 2 players play.
@@ -14,4 +11,3 @@ The outcome of the game is that eighter one of the players will win or else it w
 Good luck!
 
 I hope you enjoy this game.
-
